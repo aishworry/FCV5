@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VBUS Pin=IC3-8
+Added Pin To Net: NetName=TTL_VBUS Pin=IC3-8

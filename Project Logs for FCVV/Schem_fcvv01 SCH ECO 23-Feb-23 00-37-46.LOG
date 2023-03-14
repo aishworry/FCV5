@@ -1,0 +1,2 @@
+Remove Pin=IC3-8 From Net=TTL_VBUS
+Add Pin To Net: Pin=IC3-8 Old Net=TTL_VBUS New Net=VBUS

@@ -1,0 +1,4 @@
+Added Class: Name=Power
+Added Class: Name=small_power_signal
+Add Differential Pair: Number of nets in differential pair TTL_D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TTL_D- is 1 instead of 2

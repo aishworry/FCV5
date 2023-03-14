@@ -1,0 +1,42 @@
+Removed Member From Class: ClassName=Schem_fcvv01 Member=C?
+Change Component Comment : Designator=D? Old Comment=APTD3216CGCK New Comment=GREEN
+Change Component Comment : Designator=D? Old Comment=APTD3216CGCK New Comment=RED
+Change Component Comment : Designator=C? Old Comment=GRM188R60J106ME47D New Comment=10uF
+Change Component Comment : Designator=C? Old Comment=GRM188R60J106ME47D New Comment=10uF
+Change Component Comment : Designator=R? Old Comment=RC0603JR-070RL New Comment=0.4R
+Change Component Comment : Designator=R? Old Comment=RC0603JR-070RL New Comment=2K
+Change Component Comment : Designator=R? Old Comment=RC0603JR-070RL New Comment=220R
+Change Component Comment : Designator=R? Old Comment=RC0603JR-070RL New Comment=220R
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Description : Designator=C1 Old Description=Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V New Description=10uF 0603
+Change Component Description : Designator=C2 Old Description=Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V New Description=0603
+Change Component Description : Designator=R1 Old Description=Chip Resistor, 0 Ohm, +/- 5%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel New Description=0.4R 0603
+Change Component Description : Designator=R3 Old Description=Chip Resistor, 0 Ohm, +/- 5%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel New Description=220R 0603
+Change Component Description : Designator=R2 Old Description=Chip Resistor, 0 Ohm, +/- 5%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel New Description=220R 0603
+Change Component Description : Designator=R4 Old Description=Chip Resistor, 0 Ohm, +/- 5%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel New Description=0603 2Kohm
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR4_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component C1 10uF
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component C2 10uF
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component D1 GREEN
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component R2 220R
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component R3 220R
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component R4 2K
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component U2 ATmega328P-AU
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component U3 CP2102-GMR
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component U4 NCT3012S TR

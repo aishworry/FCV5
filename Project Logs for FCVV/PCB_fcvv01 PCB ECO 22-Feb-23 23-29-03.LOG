@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=TTL_D+ Pin=U3-4
+Removed Pin From Net: NetName=TTL_D- Pin=U3-5
+Removed Pin From Net: NetName=3V3 Pin=U3-6
+Removed Pin From Net: NetName=5VO Pin=U3-7
+Removed Pin From Net: NetName=TTL_VBUS Pin=U3-8
+Removed Pin From Net: NetName=uc_RX Pin=U3-25
+Removed Pin From Net: NetName=uc_TX Pin=U3-26
+Removed Pin From Net: NetName=uC_DTR Pin=U3-28
+Removed Pin From Net: NetName=GND Pin=U3-29
+Removed Member From Class: ClassName=Schem_fcvv01 Member=U3
+Added Component: Designator=IC3(QFN50P500X500X100-29N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CP2102.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CP2102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "634-CP2102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/CP2102?qs=ucY0lxHzU7615lOm95XT0w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC3-3
+Added Pin To Net: NetName=TTL_D+ Pin=IC3-4
+Added Pin To Net: NetName=TTL_D- Pin=IC3-5
+Added Pin To Net: NetName=3V3 Pin=IC3-6
+Added Pin To Net: NetName=5VO Pin=IC3-7
+Added Pin To Net: NetName=VBUS Pin=IC3-8
+Added Pin To Net: NetName=uc_TX Pin=IC3-25
+Added Pin To Net: NetName=uc_RX Pin=IC3-26
+Added Pin To Net: NetName=uC_DTR Pin=IC3-28
+Added Pin To Net: NetName=GND Pin=IC3-29
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component C3 10uF
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component C4 22uF
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component C6 4.7uF
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component C7 0.1uF
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component D1 SS34-E3/57T
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component IC3 CP2102
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component J1 TP4056
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component SW1 SS312SAH4-R
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component U2 MPU-6050
+Added Room: Name=Schem_fcvv01

@@ -1,0 +1,13 @@
+Added Component: Designator=U5(6ST1_L)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT26A-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-178-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/Images/doc9542.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revH, May-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "6-Lead, 2.90 x 1.60 mm Plastic Small Outline Package (SOT23)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "6ST1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revA, Jun-2008"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Schem_fcvv01 Member=Component U5 AT42QT1011-TSHR
+Added Room: Name=Schem_fcvv01
